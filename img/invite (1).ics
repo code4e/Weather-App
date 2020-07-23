@@ -1,0 +1,123 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:India Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Manika Anand:MAILTO:manand@bravurasolutions.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=moulikasha
+ rma07@gmail.com:MAILTO:moulikasharma07@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ritwik.vat
+ sa@gmail.com:MAILTO:ritwik.vatsa@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=chiranjeeb
+ sahoo4@gmail.com:MAILTO:chiranjeebsahoo4@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=vibhanshu.
+ shekhar37@gmail.com:MAILTO:vibhanshu.shekhar37@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=shreyapath
+ ak39@gmail.com:MAILTO:shreyapathak39@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=goeladiti1
+ 8@gmail.com:MAILTO:goeladiti18@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=chaudharyn
+ itish11@gmail.com:MAILTO:chaudharynitish11@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=tanvi2217@
+ gmail.com:MAILTO:tanvi2217@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=deveshn251
+ 0@gmail.com:MAILTO:deveshn2510@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sugammahes
+ hwarii@hotmail.com:MAILTO:sugammaheshwarii@hotmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=tanmaygrov
+ er98@gmail.com:MAILTO:tanmaygrover98@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=meghapearl
+ 29@gmail.com:MAILTO:meghapearl29@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=alirajab67
+ 2@gmail.com:MAILTO:alirajab672@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=chandan.gu
+ pta1046@gmail.com:MAILTO:chandan.gupta1046@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=akshitaaro
+ ra28011998@gmail.com:MAILTO:akshitaarora28011998@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=appanchal7
+ @gmail.com:MAILTO:appanchal7@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=umar.sid00
+ 7@gmail.com:MAILTO:umar.sid007@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=radhikabha
+ tia1998@gmail.com:MAILTO:radhikabhatia1998@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=poojabansa
+ l2037@gmail.com:MAILTO:poojabansal2037@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=prabhatlok
+ wani5@gmail.com:MAILTO:prabhatlokwani5@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=nmnkhullar
+ @gmail.com:MAILTO:nmnkhullar@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=trickyujjw
+ al@gmail.com:MAILTO:trickyujjwal@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=pmn.bhatna
+ gar@gmail.com:MAILTO:pmn.bhatnagar@gmail.com
+DESCRIPTION;LANGUAGE=en-US:Hi All\,\n\nThis is just a test call so that we 
+ don’t face any issue while having call with our Country Head tomorrow.\n
+ \nPlease check that there are proper plug-ins in your system and be availa
+ ble at 2 pm today for the test.\n\nRegards\nManika\n\n____________________
+ ____________________________________________________________\nJoin Microso
+ ft Teams Meeting<https://teams.microsoft.com/l/meetup-join/19%3ameeting_N2
+ MwY2U5OWQtZGJhYi00MTM0LWJkMDctOWNhMmI5ZWM4M2Rj%40thread.v2/0?context=%7b%2
+ 2Tid%22%3a%22342c5a11-68da-4dd2-8ae9-96c72ad0c508%22%2c%22Oid%22%3a%22bf82
+ 20af-c278-4f37-ad08-1dd9b0608dfb%22%7d>\nLearn more about Teams<https://ak
+ a.ms/JoinTeamsMeeting> | Meeting options<https://teams.microsoft.com/meeti
+ ngOptions/?organizerId=bf8220af-c278-4f37-ad08-1dd9b0608dfb&tenantId=342c5
+ a11-68da-4dd2-8ae9-96c72ad0c508&threadId=19_meeting_N2MwY2U5OWQtZGJhYi00MT
+ M0LWJkMDctOWNhMmI5ZWM4M2Rj@thread.v2&messageId=0&language=en-US>\n________
+ ________________________________________________________________________\n
+ \n
+UID:040000008200E00074C5B7101A82E008000000005042B8BCD54AD601000000000000000
+ 010000000664513FCF198BD43BB3454C9550B3957
+SUMMARY;LANGUAGE=en-US:Test Call
+DTSTART;TZID=India Standard Time:20200625T140000
+DTEND;TZID=India Standard Time:20200625T141000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20200625T041943Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:0
+LOCATION;LANGUAGE=en-US:Microsoft Teams Meeting
+X-MICROSOFT-CDO-APPT-SEQUENCE:0
+X-MICROSOFT-CDO-OWNERAPPTID:2042193892
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-SKYPETEAMSMEETINGURL:https://teams.microsoft.com/l/meetup-join/
+ 19%3ameeting_N2MwY2U5OWQtZGJhYi00MTM0LWJkMDctOWNhMmI5ZWM4M2Rj%40thread.v2/
+ 0?context=%7b%22Tid%22%3a%22342c5a11-68da-4dd2-8ae9-96c72ad0c508%22%2c%22O
+ id%22%3a%22bf8220af-c278-4f37-ad08-1dd9b0608dfb%22%7d
+X-MICROSOFT-SCHEDULINGSERVICEUPDATEURL:https://scheduler.teams.microsoft.co
+ m/teams/342c5a11-68da-4dd2-8ae9-96c72ad0c508/bf8220af-c278-4f37-ad08-1dd9b
+ 0608dfb/19_meeting_N2MwY2U5OWQtZGJhYi00MTM0LWJkMDctOWNhMmI5ZWM4M2Rj@thread
+ .v2/0
+X-MICROSOFT-SKYPETEAMSPROPERTIES:{"cid":"19:meeting_N2MwY2U5OWQtZGJhYi00MTM
+ 0LWJkMDctOWNhMmI5ZWM4M2Rj@thread.v2"\,"private":true\,"type":0\,"mid":0\,"
+ rid":0\,"uid":null}
+X-MICROSOFT-ONLINEMEETINGCONFLINK:conf:sip:manand@bravurasolutions.com\;gru
+ u\;opaque=app:conf:focus:id:teams:2:0!19:meeting_N2MwY2U5OWQtZGJhYi00MTM0L
+ WJkMDctOWNhMmI5ZWM4M2Rj-thread.v2!bf8220afc2784f37ad081dd9b0608dfb!342c5a1
+ 168da4dd28ae996c72ad0c508
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR

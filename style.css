@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    background-color: #ebe8e4;
+    color: rgb(128, 123, 123);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.detail-enter{
+    margin: auto;
+    width: 30%;
+    padding: 20px 0;
+    
+}
+form h1{
+    font-size: 3rem;
+    font-weight: lighter;
+    margin: 25px auto 20px auto;
+}
+form input{
+    display: block;
+    width: 95%;
+    padding: 15px 10px;
+    margin: 13px auto 20px auto;
+    border: none;
+}
+.weather-card{
+    box-shadow: 0 0 8px black;
+    padding: 0 0 10px 0;
+    background-color: white;
+    display: none;
+}
+#time-img{
+    width: 100%;
+}
+.other-details{
+    /* margin-top: 50px; */
+}
+.other-details p{
+    text-transform: uppercase;
+    
+}
+.city{
+    font-size: 2.2rem;
+    margin: 0px auto 20px auto;
+    padding-top: 10px;
+}
+.weather-type{
+    margin: 20px auto;
+    font-size: small;
+}
+.temparature{
+    margin: 20px auto;
+    font-size: 2.8rem;
+}
+.time-img-container{
+    position: relative;
+}
+#weatherIcon{
+    /* position: absolute; */
+    transform: scale(1);
+    border-radius: 100%;
+    background-color: rgb(235, 227, 230);
+    /* left: 0px;
+    top: 150px; */
+    margin-top: -52px;
+}
+#cloud{
+    transform: scale(5);
+    color: blue;
+}
